@@ -1,7 +1,7 @@
 import React, { Component } from 'react'
 import { Card, CardImg, CardText, CardBody, CardTitle } from 'reactstrap'
 
-class DishdetailComponent extends Component {
+class Dishdetail extends Component {
     constructor(props) {
         super(props);
     }
@@ -60,4 +60,4 @@ class DishdetailComponent extends Component {
     }
 }
 
-export default DishdetailComponent;
+export default Dishdetail;
